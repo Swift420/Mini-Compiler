@@ -1,7 +1,7 @@
 # Mini-Compiler
 ## A mini compiler with Java
 
-### Mini compiler has 7 Stages
+### Mini compiler with the 7 Stages
  ##### Stage 1: Lexical Analysis
  ##### Stage 2: Syntax Analysis
  ##### Stage 3: Sematic Analysis
